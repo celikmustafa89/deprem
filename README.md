@@ -1,0 +1,2 @@
+# deprem
+Eartquake application
